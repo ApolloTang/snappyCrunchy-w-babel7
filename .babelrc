@@ -1,0 +1,14 @@
+{
+  "presets": [
+    [ "es2015", { modules: false} ],
+    "es2016",
+    "stage-2",
+    "react"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-object-rest-spread",  // object rest spread is still stage 3 so it's not included in preset-env
+    "transform-bluebird"
+  ]
+}
+
