@@ -1,5 +1,7 @@
 import React from 'react';
 import {render} from 'react-dom';
+import _ from 'lodash'
+console.log('this is lodash: ', _)
 
 import style from 'main.less';
 import fonts from 'common/fonts';
