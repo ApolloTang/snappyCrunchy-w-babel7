@@ -1,5 +1,4 @@
 {
-  "name": "snappycrunchy",
   "description": "A style-architecture",
   "version": "1.0.1",
   "main": "webpack.config.js",
@@ -7,7 +6,7 @@
   "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ApolloTang/pj-setup-style-architecture"
+    "url": "git@github.com:ApolloTang/snappyCrunchy-w-babel7.git"
   },
   "resolutions": {
     "babel-core": "^7.0.0-bridge.0"
